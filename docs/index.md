@@ -8,6 +8,8 @@ This folder contains project documentation, including:
 
 \- System architecture
 
+![System Architecture Diagram](architecture-diagram.png)
+
 \- Database diagrams
 
 \- API specifications
